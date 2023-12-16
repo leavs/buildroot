@@ -1,0 +1,4 @@
+#include "base/base.config"
+#include "base/recovery.config"
+#include "chips/rk3399_aarch64.config"
+BR2_PACKAGE_RECOVERY_USE_ROTATION_DOWN=y
